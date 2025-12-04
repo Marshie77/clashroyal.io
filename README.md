@@ -1,1 +1,1 @@
-# clashroyal.io
+# clashroyal.github.io
